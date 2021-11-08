@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\bin\Debug\netcoreapp3.1\AluguelCasas.exe
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\bin\Debug\netcoreapp3.1\AluguelCasas.deps.json
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\bin\Debug\netcoreapp3.1\AluguelCasas.runtimeconfig.json
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\bin\Debug\netcoreapp3.1\AluguelCasas.runtimeconfig.dev.json
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\bin\Debug\netcoreapp3.1\AluguelCasas.dll
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\bin\Debug\netcoreapp3.1\AluguelCasas.pdb
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.AssemblyInfo.cs
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.dll
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.pdb
+C:\Users\David\source\repos\AluguelCasas\AluguelCasas\obj\Debug\netcoreapp3.1\AluguelCasas.genruntimeconfig.cache
